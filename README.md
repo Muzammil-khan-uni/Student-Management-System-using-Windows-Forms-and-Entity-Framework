@@ -1,6 +1,20 @@
 # Student Management System using Windows Forms and Entity Framework With SQL
 
+LOAD:
 
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-using-Windows-Forms-and-Entity-Framework/blob/main/Output%20SS/LOAD.png)
+
+ADD:
+
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-using-Windows-Forms-and-Entity-Framework/blob/main/Output%20SS/ADD.png)
+
+UPDATE:
+
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-using-Windows-Forms-and-Entity-Framework/blob/main/Output%20SS/UPDATE.png)
+
+DELETE:
+
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-using-Windows-Forms-and-Entity-Framework/blob/main/Output%20SS/DELETE.png)
 
 This is a CRUD (Create, Read, Update, Delete) desktop application built using C# Windows Forms and Entity Framework to manage student records. The application connects to a database using Entity Framework and allows users to insert, update, delete, view, and clear student data.
 
